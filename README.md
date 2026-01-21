@@ -11,3 +11,6 @@ Controller: Press A or X (for playstation controllers) to turn rumble on and off
 #
 
 #### Multiple Controllers are not supported.
+
+#### Planned features:
+- Rumble Intensity Slider 
