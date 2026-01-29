@@ -1,6 +1,6 @@
 image_index = global.vibration
 
-if (gamepad_button_check_pressed(1,gp_face1)) {
+if (gamepad_button_check_pressed(global.controller,gp_face1)) {
 	
 	if (global.vibration  = 0) {
 		global.vibration  = 1 	
@@ -9,3 +9,5 @@ if (gamepad_button_check_pressed(1,gp_face1)) {
 	}
 	
 }
+
+global.controller = clamp(global.controller,0,9)
