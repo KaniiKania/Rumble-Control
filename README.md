@@ -5,12 +5,9 @@
 ### HOW TO USE
 
 Keyboard: Press Enter to turn rumble on and off
-
+Mouse: Click the big OFF button to turn rumble on and off, you can change the controller index by clicking on arrow buttons.
 Controller: Press A or X (for playstation controllers) to turn rumble on and off.
 
-#
-
-#### Multiple Controllers are not supported.
 
 #### Planned features:
 - Rumble Intensity Slider 
